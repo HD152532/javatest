@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/org/diy/action/LoginAction.java=UTF-8
+encoding//src/org/diy/action/LogoutAction.java=UTF-8
+encoding//src/org/diy/action/SignupAction.java=UTF-8
+encoding//src/org/diy/service/UserService.java=UTF-8
+encoding//src/org/diy/servlet/ActionServlet.java=UTF-8
